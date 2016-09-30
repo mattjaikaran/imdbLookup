@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.App-header {
+  background-color: black;
+  height: 180px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navBar > ul {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: slategrey;
+}
+
+a:visited {
+  color: gray;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+
+
+ul {
+  list-style-type: none;
+}
